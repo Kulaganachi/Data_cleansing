@@ -1,6 +1,6 @@
 # Data_cleansing
 ## Ex-01_DS_Data_Cleaning
-## AIM
+## AIM 
     To read the given data and perform data cleaning and save the cleaned data to a file.
 ## EXPLANATION
 Data cleaning is the process of preparing data for analysis by removing or modifying data that is incorrect,
